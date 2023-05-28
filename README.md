@@ -9,3 +9,5 @@
 discord.py
 python-dotenv
 jishaku
+
+botを起動する際は'core.py'を実行してください
